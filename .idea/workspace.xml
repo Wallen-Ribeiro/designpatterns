@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8930b067-74ab-4418-a4e4-b7fcedbe9d09" name="Changes" comment="" />
+    <list default="true" id="8930b067-74ab-4418-a4e4-b7fcedbe9d09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringTransformerGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StringTransformerGroupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringCaseChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringCaseChanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringDrink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringInverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringInverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringRecipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringRecipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringReplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringReplacer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringCaseChangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringCaseChangerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringDrinkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringDrinkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringInverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringInverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringRecipeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringRecipeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StringReplacerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringReplacerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +33,37 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DP" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HjFJg3DmTNb7OP6Qxt1cqVjkUf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,9 +72,87 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hp/Desktop/tpldts",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager" selected="Gradle.StringTransformerGroupTest">
+    <configuration name="StringRecipeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;StringRecipeTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="StringTransformerGroupTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;StringTransformerGroupTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'DP.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.StringTransformerGroupTest" />
+        <item itemvalue="Gradle.StringRecipeTest" />
+        <item itemvalue="Gradle.Tests in 'DP.test'" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,8 +161,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668790519372</updated>
+      <workItem from="1668790521784" duration="4015000" />
+      <workItem from="1668957689324" duration="2122000" />
+      <workItem from="1669077558570" duration="3806000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

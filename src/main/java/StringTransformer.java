@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface StringTransformer {
+public interface StringTransformer {
+    void execute(StringDrink drink);
 }
